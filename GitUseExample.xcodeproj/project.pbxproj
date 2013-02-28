@@ -15,6 +15,7 @@
 		84B90D9A16DFF79A009CEE85 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 84B90D9916DFF79A009CEE85 /* AppDelegate.m */; };
 		84B90D9D16DFF79A009CEE85 /* MainStoryboard.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 84B90D9B16DFF79A009CEE85 /* MainStoryboard.storyboard */; };
 		84B90DA016DFF79A009CEE85 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 84B90D9F16DFF79A009CEE85 /* ViewController.m */; };
+		84B90DA816DFFBA3009CEE85 /* MapForItinery.m in Sources */ = {isa = PBXBuildFile; fileRef = 84B90DA716DFFBA3009CEE85 /* MapForItinery.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -31,6 +32,8 @@
 		84B90D9C16DFF79A009CEE85 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = en; path = en.lproj/MainStoryboard.storyboard; sourceTree = "<group>"; };
 		84B90D9E16DFF79A009CEE85 /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
 		84B90D9F16DFF79A009CEE85 /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
+		84B90DA616DFFBA3009CEE85 /* MapForItinery.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MapForItinery.h; sourceTree = "<group>"; };
+		84B90DA716DFFBA3009CEE85 /* MapForItinery.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MapForItinery.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -83,6 +86,8 @@
 				84B90D9E16DFF79A009CEE85 /* ViewController.h */,
 				84B90D9F16DFF79A009CEE85 /* ViewController.m */,
 				84B90D9016DFF79A009CEE85 /* Supporting Files */,
+				84B90DA616DFFBA3009CEE85 /* MapForItinery.h */,
+				84B90DA716DFFBA3009CEE85 /* MapForItinery.m */,
 			);
 			path = GitUseExample;
 			sourceTree = "<group>";
@@ -163,6 +168,7 @@
 				84B90D9616DFF79A009CEE85 /* main.m in Sources */,
 				84B90D9A16DFF79A009CEE85 /* AppDelegate.m in Sources */,
 				84B90DA016DFF79A009CEE85 /* ViewController.m in Sources */,
+				84B90DA816DFFBA3009CEE85 /* MapForItinery.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
